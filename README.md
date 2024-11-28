@@ -14,3 +14,12 @@ This code was written with the help of **ChatGPT**, which assisted in generating
 
 ## Before running the App:
 - Set up the Google Maps API Key: To use Google Maps in the app, you need to provide a Google Maps API key. **Put your key in the `secrets.properties` file. The content should be `MAPS_API_KEY=your_key`**
+
+## Screenshots of the App:
+Below are some screenshots showing how the app looks and works:
+
+1. ![Screenshot 1](https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_23_45_02_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true)
+2. ![Screenshot 2](https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_22_36_32_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true)
+3. ![Screenshot 3](https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_22_31_42_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true)
+4. ![Screenshot 4](https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_21_30_40_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true)
+5. ![Screenshot 5](https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_22_50_85_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true)
