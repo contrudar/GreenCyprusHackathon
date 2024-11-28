@@ -18,8 +18,10 @@ This code was written with the help of **ChatGPT**, which assisted in generating
 ## Screenshots of the App:
 Below are some screenshots showing how the app looks and works:
 
-1. ![Screenshot 1](https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_23_45_02_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true)
-2. ![Screenshot 2](https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_22_36_32_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true)
-3. ![Screenshot 3](https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_22_31_42_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true)
-4. ![Screenshot 4](https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_21_30_40_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true)
-5. ![Screenshot 5](https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_22_50_85_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true)
+1. <img src="https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_23_45_02_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true" width="400" alt="Carbon footprint questionnaire"/>
+2. <img src="https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_22_36_32_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true" width="400" alt="Plant Shop"/>
+3. <img src="https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_22_31_42_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true" width="400" alt="List of bought and planted trees"/>
+4. <img src="https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_21_30_40_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true" width="400" alt="The map with planted trees"/>
+5. <img src="https://github.com/contrudar/GreenCyprusHackathon/blob/master/Screenshot_2024_11_25_13_22_50_85_e4fec40916d2c363e196cd51779f4e11.jpg?raw=true" width="400" alt="Profile"/>
+
+
